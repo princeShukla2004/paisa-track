@@ -1,0 +1,6 @@
+{
+  "name": "PaisaTrack",
+  "description": "Your Money. Your Goals. Your Future. An AI-powered personal finance management platform for tracking income, expenses, budgets, savings goals, and spending insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
